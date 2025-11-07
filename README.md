@@ -7,14 +7,6 @@
 
 ---
 
-## 📄 What’s Included
-
-- [`Ontological_Intensification.pdf`](Ontological_Intensification.pdf) — Final manuscript (LaTeX → PDF), ready for SSRN/arXiv submission.  
-- [`Ontological_Intensification.tex`](Ontological_Intensification.tex) — Full LaTeX source (Overleaf-compatible).  
-- [`Appendix_A_MPO_Spec.pdf`](Appendix_A_MPO_Spec.pdf) — Standalone formal specification of the MPO-System core (7 properties + 3 axioms + operators).  
-
----
-
 ## 🔍 Core Idea in One Sentence
 
 > **AI’s inefficiency is not computational—it is *ontological*.**  
