@@ -60,3 +60,14 @@ This work is the *engineering synthesis* of the MPO-System — a dynamic ontolog
   salience_scores = mpo_salience(tokens)       # Property 37 engine
   compressed_tokens = tokens[𝒩ₚ(tokens) > τ]   # Property 25 filter
   response = model(compressed_tokens, attention_weights=salience_scores)
+
+## 📜 License & Attribution
+
+© Serge Magomet aka Aimate, 2025  
+Released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+— *Share, adapt, but don’t monetize, and always credit the source (and the apple).*
+
+> *This is not a theory.  
+> It’s a training ground.  
+> Come. Play. See what becomes.*  
+> — Aimate
